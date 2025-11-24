@@ -33,20 +33,26 @@ shell
 
 ## How to Run
 
-### Install dependencies (first time only)
+### Install dependencies
 
 ```bash
 npm install
-Build the project
-bash
-Копировать код
+```
+
+### Build the project
+
+```bash
 npm run build
-Run compiled version
-bash
-Копировать код
+```
+
+### Run compiled version
+
+```bash
 npm start
-Run directly from TypeScript (dev mode)
-bash
-Копировать код
+```
+
+### Run directly from TypeScript (dev mode)
+
+```bash
 npm run dev
 ```
